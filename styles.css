@@ -1,12 +1,25 @@
 <style>
-p{
-    margin-top: 150px;
-    margin-bottom: 150px;
-    margin-right: 300px;
-    margin-left: 300px;
-}
+    body{
+        background-color: antiquewhite;
+    }
+    h1{
+        color: darkolivegreen;
+        text-align: center;
+        font-size: 24px;
+    }
+    p{
+        font-size: 14px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+        margin-right: 300px;
+        margin-left: 300px;
+    }
+    .italic-paragraph{
+        font-style: italic;
+    }
+    #emphasized-paragraph{
+        font-style: bold;
+        font-size: 18px
 
-h1{
-    text-align: center;
-}
+    }
 </style>
