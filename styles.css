@@ -27,6 +27,7 @@
     }
     #emphasized-paragraph{
         font-style: bold;
+<<<<<<< HEAD
         font-size: 24px
     }
     img{
@@ -35,5 +36,8 @@
         margin: auto;
         display: block;
         padding: 100px;
+=======
+        font-size: 18px
+>>>>>>> 177f9d717712ffbb0f2634d48ae867abd8902e2b
     }
 </style>
